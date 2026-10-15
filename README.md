@@ -1,25 +1,10 @@
-<img src="images/profile-orbit.svg" width="100%" alt="Zhengbiwen · 深蓝星空、月亮与渐变轨道">
+<img src="images/profile-cover.svg" width="100%" alt="Zhengbiwen · 接近真理，接近现实。">
 
-<div align="center">
+<br>
+
+### 作品 / Selected work
 
 写一些自己想用的工具，把想法慢慢变成作品。
-
-[项目](https://github.com/hi-fullmoon?tab=repositories) · [ShellSpan](https://github.com/hi-fullmoon/ShellSpan) · [息刻](https://github.com/hi-fullmoon/Xike) · [AICommit](https://github.com/hi-fullmoon/AICommit)
-
-<br>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-292524?style=flat-square&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-
-</div>
-
-<br>
-
-### 🪐 正在打磨的作品
-
-从桌面到移动端，也写一点让日常开发更顺手的小工具。
 
 | 项目 | 简介 | 技术方向 |
 | :--- | :--- | :--- |
@@ -29,7 +14,7 @@
 
 <br>
 
-### 🛠 还有一些小工具
+### 工具与配置
 
 [Windows 全局热键](https://github.com/hi-fullmoon/HotkeyManager) · [macOS 全局热键](https://github.com/hi-fullmoon/HotkeyManager-mac) · [Neovim 配置](https://github.com/hi-fullmoon/nvim-config)
 
