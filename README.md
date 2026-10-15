@@ -1,10 +1,6 @@
+<img src="images/profile-orbit.svg" width="100%" alt="Zhengbiwen · 深蓝星空、月亮与渐变轨道">
+
 <div align="center">
-
-<sub>HI, I'M</sub>
-
-# Zhengbiwen 🌙
-
-**接近真理，接近现实。**
 
 写一些自己想用的工具，把想法慢慢变成作品。
 
@@ -21,7 +17,7 @@
 
 <br>
 
-### 正在打磨的作品
+### 🪐 正在打磨的作品
 
 从桌面到移动端，也写一点让日常开发更顺手的小工具。
 
@@ -33,7 +29,7 @@
 
 <br>
 
-### 还有一些小工具
+### 🛠 还有一些小工具
 
 [Windows 全局热键](https://github.com/hi-fullmoon/HotkeyManager) · [macOS 全局热键](https://github.com/hi-fullmoon/HotkeyManager-mac) · [Neovim 配置](https://github.com/hi-fullmoon/nvim-config)
 
