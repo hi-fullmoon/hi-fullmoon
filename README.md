@@ -29,4 +29,3 @@
 ### 工具与配置
 
 [Windows 全局热键](https://github.com/hi-fullmoon/HotkeyManager) · [macOS 全局热键](https://github.com/hi-fullmoon/HotkeyManager-mac) · [Neovim 配置](https://github.com/hi-fullmoon/nvim-config)
-
