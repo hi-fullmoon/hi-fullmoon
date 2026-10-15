@@ -13,11 +13,20 @@
 
 ### 作品
 
-| 项目 | 简介 | 技术方向 |
-| :--- | :--- | :--- |
-| [**ShellSpan**](https://github.com/hi-fullmoon/ShellSpan) | 跨平台 AI SSH 客户端，集成多标签终端、SFTP 与 AI Agent。 | 桌面 · Rust |
-| [**息刻 · Xike**](https://github.com/hi-fullmoon/Xike) | 离线优先的 Android 心情日记，用文字、照片和语音记录此刻。 | Android · Kotlin |
-| [**AICommit**](https://github.com/hi-fullmoon/AICommit) | 用 AI 生成符合 Conventional Commits 规范的 Git 提交信息。 | CLI · JavaScript |
+#### [ShellSpan](https://github.com/hi-fullmoon/ShellSpan)
+
+跨平台 AI SSH 客户端，集成多标签终端、SFTP 文件管理与 AI Agent。<br>
+<sub>桌面应用 · Rust</sub>
+
+#### [息刻 · Xike](https://github.com/hi-fullmoon/Xike)
+
+离线优先的 Android 心情日记，用文字、照片和语音记录此刻。<br>
+<sub>Android · Kotlin</sub>
+
+#### [AICommit](https://github.com/hi-fullmoon/AICommit)
+
+用 AI 生成符合 Conventional Commits 规范的 Git 提交信息。<br>
+<sub>命令行工具 · JavaScript</sub>
 
 <br>
 
