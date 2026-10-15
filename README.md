@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="images/卡通-山丘-猫.png" width="680" alt="一只黑猫坐在绿色山丘上">
+<br>
+<sub>保持好奇，慢慢生长。</sub>
 
 # Zhengbiwen
 
@@ -28,6 +30,3 @@
 
 [Windows 全局热键](https://github.com/hi-fullmoon/HotkeyManager) · [macOS 全局热键](https://github.com/hi-fullmoon/HotkeyManager-mac) · [Neovim 配置](https://github.com/hi-fullmoon/nvim-config)
 
----
-
-<p align="center"><sub>保持好奇，慢慢生长。</sub></p>
