@@ -1,4 +1,10 @@
-<img src="images/profile-cover.svg" width="100%" alt="Zhengbiwen · 接近真理，接近现实。">
+<sub>HI-FULLMOON</sub>
+
+# Zhengbiwen
+
+**接近真理，接近现实。**
+
+桌面应用 · Android · 开发工具
 
 <br>
 
