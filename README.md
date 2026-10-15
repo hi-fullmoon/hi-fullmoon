@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/卡通-山丘-猫.png" width="680" alt="一只黑猫坐在绿色山丘上">
+<img src="images/卡通-山丘-猫.png" width="100%" alt="一只黑猫坐在绿色山丘上">
 <br>
 <sub>保持好奇，慢慢生长。</sub>
 
