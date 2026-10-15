@@ -30,7 +30,6 @@
 | [**ShellSpan**](https://github.com/hi-fullmoon/ShellSpan) | 跨平台 AI SSH 客户端，集成多标签终端、SFTP 与 AI Agent。 | 桌面 · Rust |
 | [**息刻 · Xike**](https://github.com/hi-fullmoon/Xike) | 离线优先的 Android 心情日记，用文字、照片和语音记录此刻。 | Android · Kotlin |
 | [**AICommit**](https://github.com/hi-fullmoon/AICommit) | 用 AI 生成符合 Conventional Commits 规范的 Git 提交信息。 | CLI · JavaScript |
-| [**Athena**](https://github.com/hi-fullmoon/Athena) | 本地优先的 Android 日期应用，管理纪念日、倒数日与提醒。 | Android · Kotlin |
 
 <br>
 
@@ -41,7 +40,7 @@
 ---
 
 <div align="center">
-  <img src="images/卡通-山丘-猫.png" width="280" alt="一只黑猫坐在绿色山丘上">
+  <img src="images/卡通-山丘-猫.png" width="100%" alt="一只黑猫坐在绿色山丘上">
   <br>
   <sub>保持好奇，慢慢生长。</sub>
 </div>
