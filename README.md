@@ -1,4 +1,6 @@
-<sub>HI-FULLMOON</sub>
+<div align="center">
+
+<img src="images/卡通-山丘-猫.png" width="680" alt="一只黑猫坐在绿色山丘上">
 
 # Zhengbiwen
 
@@ -6,11 +8,13 @@
 
 桌面应用 · Android · 开发工具
 
+写一些自己想用的工具，把想法慢慢变成作品。
+
+</div>
+
 <br>
 
-### 作品 / Selected work
-
-写一些自己想用的工具，把想法慢慢变成作品。
+### 作品
 
 | 项目 | 简介 | 技术方向 |
 | :--- | :--- | :--- |
@@ -26,8 +30,4 @@
 
 ---
 
-<div align="center">
-  <img src="images/卡通-山丘-猫.png" width="100%" alt="一只黑猫坐在绿色山丘上">
-  <br>
-  <sub>保持好奇，慢慢生长。</sub>
-</div>
+<p align="center"><sub>保持好奇，慢慢生长。</sub></p>
